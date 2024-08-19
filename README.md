@@ -1,5 +1,7 @@
 # Pico-8SEG-LED
 
+English | [简体中文](https://github.com/zwyzwm/Pico-8SEG-LED/blob/main/README.zh.md)
+
 ## Build the operating environment
 
 Reference: https://github.com/milkv-duo/duo-examples
